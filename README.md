@@ -1,0 +1,15 @@
+# NJUUtils
+
+你南相关的一些脚本 - 包括但不限于(已经成为历史的)健康打卡, 南软塑料云等
+
+**本仓库中的所有代码很有可能并不适用于你需要的场景, 不提供任何技术支持, 所有代码仅供交流学习使用, 使用代码导致的一切后果均由使用者自行承担.**
+
+该软件按“原样”提供，不提供任何形式的保证，无论是明示或暗示，包括但不限于适销性、特定目的的适用性和非侵权的保证。在任何情况下，无论是在合同行为、侵权行为或其他情况下，作者或版权所有者均不对任何索赔、损害或其他责任负责，无论是因使用或与软件或软件的其他交易有关的事项而产生或与之相关。
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
